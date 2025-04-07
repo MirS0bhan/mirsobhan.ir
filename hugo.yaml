@@ -33,7 +33,7 @@ menu:
   main:
     - identifier: blog
       name: بلاگ
-      pageRef: /log
+      pageRef: /logs
       weight: 2
       
     - name: جست‌جو
@@ -49,7 +49,7 @@ menu:
 
     - name: تلگرام
       weight: 6
-      url: "https://osmUsersGroup.t.me"
+      url: "https://mirsobhan.t.me"
       params:
         icon: telegram
 
