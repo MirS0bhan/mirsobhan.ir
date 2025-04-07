@@ -1,17 +1,11 @@
 ---
-title: My Site
+title: میر سبحان
 toc: false
 ---
 
-This is the landing page.
-
-## Explore
+به وبلاگ شخصی من خوش ‌اومدید
 
 {{< cards >}}
-  {{< card link="docs" title="Docs" icon="book-open" >}}
-  {{< card link="about" title="About" icon="user" >}}
+  {{< card link="logs" title="وبلاگ" icon="book-open" >}}
+  
 {{< /cards >}}
-
-## Documentation
-
-For more information, visit [Hextra](https://imfing.github.io/hextra).
