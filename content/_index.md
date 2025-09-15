@@ -9,5 +9,8 @@ toc: false
   {{< card link="logs" title="وبلاگ" icon="book-open" >}}  
 {{< /cards >}}
 {{< cards >}}
+  {{< card link="docs" title="مقالات" icon="book-open" >}}  
+{{< /cards >}}
+{{< cards >}}
   {{< card link="https://github.mirsobhan.ir" title="گیتهاب" icon="github" >}}  
 {{< /cards >}}
